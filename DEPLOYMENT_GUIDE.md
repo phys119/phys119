@@ -5,10 +5,12 @@
 **Prerequisites:** Python 3.7+, git, GitHub credentials (SSH key or personal access token with repo write access)
 
 ```bash
-git clone https://github.com/phys119/phys119.git
-cd phys119
+git clone https://github.com/phys119/phys119.git phys119_dev
+cd phys119_dev
 python phys119_deploy.py status
 ```
+
+> **Why `phys119_dev`?** When students (or you) click an nbgitpuller link, it clones the repo into a folder called `phys119/` in the home directory. Naming your working copy `phys119_dev` keeps the two separate and prevents conflicts.
 
 The status command confirms everything is working and shows what is currently deployed.
 
@@ -194,9 +196,9 @@ Students will receive the fix next time they click the nbgitpuller link.
 ## Troubleshooting
 
 ### "Not in a git repository"
-Make sure you are inside the `phys119` directory:
+Make sure you are inside the `phys119_dev` directory:
 ```bash
-cd phys119
+cd phys119_dev
 ```
 
 ### "Branch doesn't exist" when running update
