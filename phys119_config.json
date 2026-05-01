@@ -1,0 +1,20 @@
+{
+  "total_labs": 11,
+  "repo_url": "https://github.com/phys119/phys119",
+  "hub_url": "https://phys119.phas.ubc.ca",
+  "current_branch": "main",
+  "dev_branch": "dev",
+  "lab_names": {
+    "0": "Introduction to Jupyter Notebooks",
+    "1": "Hooke's Law I",
+    "2": "Hooke's Law II",
+    "3": "The Pendulum I",
+    "4": "The Pendulum II",
+    "5": "Ohm's Law I",
+    "6": "Ohm's Law II",
+    "7": "RC Circuits I",
+    "8": "RC Circuits II",
+    "9": "Radiation Shielding I",
+    "10": "Radiation Shielding II"
+  }
+}
