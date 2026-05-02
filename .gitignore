@@ -9,3 +9,8 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Instructor management files (kept local only)
+DEPLOYMENT_GUIDE.md
+phys119_deploy.py
+phys119_config.json
