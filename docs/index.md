@@ -3,7 +3,7 @@
 This will be your landing page for everything you’ll need to access! We appreciate your patience while we navigate this situation.
 
 ## To do before Monday/ Tuesday
-* Login into your jupyter account
+* Login into your account on our Physics 119 Jupyter server
 * Complete Lab 00
 * Review the Syllabus
 * Join Piazza
@@ -15,7 +15,7 @@ This will be your landing page for everything you’ll need to access! We apprec
 
 ### Complete Lab 00
 * Use this link to access [Lab 00](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab00/Lab00.ipynb)
-  * Although there is nowhere to submit this just yet, this lab helps you get familiar with Jupyter notebook and you will be asked to submit it as soon as we are set up
+  * Submit to the [Lab00 submission assignment](https://us.prairielearn.com/pl/course_instance/215773/assessment/2682258) for our course on PrairieLearn
 
 ### Review the syllabus
 The [syllabus](https://phys119.github.io/phys119/syllabus.html) will give you information on the instructional team, course schedule, catch-up labs, Piazza, and should answer questions you have about the course 
