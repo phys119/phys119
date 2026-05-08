@@ -2,7 +2,7 @@
 
 Introductory physics laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
 
-This syllabus describes how the course will work and what to expect this term. Further details, such as the course learning goals, can be found in the Course Information and Logistics module on Canvas.
+This syllabus describes how the course will work and what to expect this term. 
 
 ## Course Information
 
