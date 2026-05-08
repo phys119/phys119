@@ -1,6 +1,6 @@
 # Homepage
 
-This will be your landing page for everything you’ll need to access! We appreciate your patience while we figure out how to address 
+This will be your landing page for everything you’ll need to access! We appreciate your patience while we navigate this situation.
 
 ## To do before Monday/ Tuesday
 * Login into your jupyter account
