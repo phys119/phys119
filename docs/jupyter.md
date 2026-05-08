@@ -1,4 +1,4 @@
-Troubleshooting Jupyter Notebook Technical Problems
+# Troubleshooting Jupyter Notebook Technical Problems
 
 There are a few problems we see occasionally in using Jupyter Notebooks on our Physics 119 Jupyter server. There are some suggestions below for how to resolve problems you might see. If you can't get past a problem with the steps below, ask us - in person, in office hours, or
 on Piazza!
