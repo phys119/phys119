@@ -23,6 +23,8 @@ The [syllabus](https://phys119.github.io/phys119/syllabus.html) will give you in
 ### Join [our course on Piazza](https://piazza.com/ubc.ca/summer2026/phys_v119l01l022026ss)
 For help with course content or questions about course details and policies, please first search Piazza to see if your questions has already been asked and answered, and if not, post it on Piazza. If the answer to your question might benefit other students or be something that could be answered by other students, then Piazza is the place to ask it.
 
+For scheduling or other issues specific to your own personal situation please contact the course administrator at phys119@phas.ubc.ca.
+
 ### Office Hours
 Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 
