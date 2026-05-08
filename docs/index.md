@@ -27,7 +27,7 @@ For help with course content or questions about course details and policies, ple
 Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 
 ---
-Modules
+# Modules
 ---
 ### Lab 00 (Monday May 11/Tuesday May 12)
 * [Lab 00 - notebook with instructions](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab00/Lab00.ipynb)
