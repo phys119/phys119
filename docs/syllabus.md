@@ -21,9 +21,9 @@ This syllabus describes how the course will work and what to expect this term.
 | Wed 1pm-4pm | L01 | Serene Rodrigues | Veyana Khajehhassanirabori, Dean Reiter |
 | Thurs 1pm-4pm | L02 | Serene Rodrigues | Katelynn Hubenig, Dean Reiter |
 
-| | |
-| --- | --- |
-| **Course Administrator:** | Florence Ng, [phys119@phas.ubc.ca](mailto:phys119@phas.ubc.ca) |
+<table>
+<tr><td><strong>Course Administrator:</strong></td><td>Florence Ng, <a href="mailto:phys119@phas.ubc.ca">phys119@phas.ubc.ca</a></td></tr>
+</table>
 
 **Instructional team contact information:**
 
