@@ -80,3 +80,40 @@ Suggestion: One way this can happen is if any of the cells in your notebook are 
 ## 9) Including images (jpeg, png etc) in your html exported notebooks.
 
 You can include images in your markdown, but you need to do it the right way if those images are to be embedded in the html export of your notebook. You may be able to drag and drop images into a markdown cell, but what seems to work most consistently is to copy and paste an image file into a markdown cell that you are editing. This will embed the image so that it is within the notebook itself, and will be exported when the notebook is exported. Copy the image with CTRL-C (or Command-C) from your file browser, and then type CTRL-V (or Command-V) in the place in your markdown code where you’d like the image to appear.
+
+## 10) A link to a Jupyter document is not working and Jupyter won't load; you get the error "returned non-zero exit status 128"
+
+If you get something similar to the following when trying to login to Jupyter using a Jupyter document link: 
+
+> $ git fetch
+> $ git reset --mixed
+> $ git -c user.email=nbgitpuller@nbgitpuller.link -c user.name=nbgitpuller merge -Xours origin/main
+> fatal: refusing to merge unrelated histories
+> Traceback (most recent call last):
+> File "/opt/tljh/user/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+>    self.run()
+> File "/opt/tljh/user/lib/python3.10/threading.py", line 953, in run
+>    self._target(*self._args, **self._kwargs)
+> File "/opt/tljh/user/lib/python3.10/site-packages/nbgitpuller/handlers.py", line 93, in pull
+>    raise e
+> File "/opt/tljh/user/lib/python3.10/site-packages/nbgitpuller/handlers.py", line 87, in pull
+>    for line in gp.pull():
+> File "/opt/tljh/user/lib/python3.10/site-packages/nbgitpuller/pull.py", line 144, in pull
+>    yield from self.update()
+> File "/opt/tljh/user/lib/python3.10/site-packages/nbgitpuller/pull.py", line 344, in update
+>    yield from self.merge()
+> File "/opt/tljh/user/lib/python3.10/site-packages/nbgitpuller/pull.py", line 273, in merge
+>    for line in execute_cmd([
+> File "/opt/tljh/user/lib/python3.10/site-packages/nbgitpuller/pull.py", line 48, in execute_cmd
+>     raise subprocess.CalledProcessError(ret, cmd)
+> subprocess.CalledProcessError: Command '['git', '-c', 'user.email=nbgitpuller@nbgitpuller.link', '-c', 'user.name=nbgitpuller', 'merge', '-Xours', 'origin/main']' returned non-zero exit status 128.
+
+Log directly into https://phys119.phas.ubc.ca/. 
+
+ - Click on the folder icon directly under "Filter Files by Name" near the top left in "📁 / phys119 /"
+
+![folder](img/home.png)
+
+- Right-click on the folder "phys119" below and choose Rename
+- Rename to "old_phys119"
+- Try clicking on the original document link and you will get a fresh version of ALL course documents. If you need access to any of your old documents, you can always revisit your "old_phys119" version of the course on the server
