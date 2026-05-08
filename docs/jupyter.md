@@ -12,6 +12,8 @@ I can see my Jupyter notebook, but whenever I try to execute python code cells, 
 Suggestions: The first thing to check is to see if the python kernel has died or timed out.
 In the upper right of the window, there should be an open circle. When you hover the mouse over the circle it should say ‘Kernel status: Idle’
 
+![jupyter screenshot](img/jupyter.png)
+
 If instead the circle looks like a lightning bolt, and says something like ‘Disconnected’ or ‘Connecting’ or anything other than idle when you hover over it, it is probably not working. Another symptom is that when you try to execute a cell, you see a * show up in the [ ]’s at the left of the cell. When things are working, a * will appear briefly, but quickly turn into a number, like: [5]. To resolve this issue:
 Try just reloading the page (CTRL-R in many browsers)
 Try logging in again at https://open.jupyter.ubc.ca 
@@ -29,14 +31,16 @@ In the file browser on the left, navigate to the file you were working in.
 
 If this doesn’t work, there are a couple of other things you can try:
 
-a) Select Kernel->Restart Kernel and try again.
-b) log in again in a private browsing window
+1. Select Kernel->Restart Kernel and try again.
+1. log in again in a private browsing window
 
 ## 2) Problem: import data_entry2 fails.
 
 Suggestion: A cell near the end of Lab 00 installs the modules needed for our data entry module to work. Before these installed modules will
 function properly, the Jupyter server environment needs to be restarted. If you've never successfully used the data_entry2 module try navigating to:
-File -> Hub Control Panel -> Stop My Server
+
+| File -> Hub Control Panel -> Stop My Server
+
 wait a minute or two, then Restart the server (then close the old
 tabs). Try again, importing data_entry2 should work properly from now on.
 
