@@ -14,8 +14,7 @@ This will be your landing page for everything you’ll need to access! We apprec
 * Put in the password you would like to have for your account and save this somewhere as it will be your password for your Jupyter account
 
 ### Complete Lab 00
-* Use this link to access <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab00/Lab00.ipynb" target="_blank" rel="noopener noreferrer">Lab 00</a> 
-  * Submit to the <a href="https://us.prairielearn.com/pl/course_instance/215773/assessment/2682258" target="_blank" rel="noopener noreferrer">Lab 00 submission assignment</a> on PrairieLearn
+* See links below in the Modules section
 
 ### Review the syllabus
 The [syllabus](https://phys119.github.io/phys119/syllabus.html) will give you information on the instructional team, course schedule, catch-up labs, Piazza, and should answer questions you have about the course 
