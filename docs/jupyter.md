@@ -39,7 +39,7 @@ If this doesn’t work, there are a couple of other things you can try:
 Suggestion: A cell near the end of Lab 00 installs the modules needed for our data entry module to work. Before these installed modules will
 function properly, the Jupyter server environment needs to be restarted. If you've never successfully used the data_entry2 module try navigating to:
 
-| File -> Hub Control Panel -> Stop My Server
+> File -> Hub Control Panel -> Stop My Server
 
 wait a minute or two, then Restart the server (then close the old
 tabs). Try again, importing data_entry2 should work properly from now on.
@@ -70,7 +70,8 @@ Suggestions: We’ve seen this a few times, seems to happen on Macs, in Safari. 
 Suggestions: One way to “lose” spreadsheet data is if you reuse the same spreadsheet name for multiple sheets in your notebook. If you give a second sheet the same file name as the first sheet, anything you change in the second sheet will overwrite the data in the first sheet - that’s not what we want! Even if you’ve done this though, all is not necessarily lost.
 
 Every time you Generate Vectors with an updated spreadsheet, a backup copy of your most recent spreadsheet is created in the csv_backups folder that you should be able to see alongside your notebook. You can navigate into that folder to look for previous versions. If you find a version that contains data you want to restore: 1) make a copy of the spreadsheet from the csv_backups 2) rename the copy to something sensible, like: restored_sheet1.csv, 3) move that file up into the folder where the notebook is by dragging it with the mouse to the list of folder names. 4) In your notebook, change the code cell to:
- de_restore1 = data_entry2.sheet('restored_sheet1.csv')
+
+> de_restore1 = data_entry2.sheet('restored_sheet1.csv')
 
 ## 8) Problem: Internal Server Error when trying to export as html
 
