@@ -27,11 +27,11 @@ This syllabus describes how the course will work and what to expect this term.
 
 **Instructional team contact information:**
 
-For help with course content or questions about course details and policies, please first search Piazza to see if your questions has already been asked and answered, and if not, post it on Piazza. **If the answer to your question might benefit other students or be something that could be answered by other students, then Piazza is the place to ask it.** If you email or send a Canvas message to someone on the teaching team with such a question, you will be redirected to post on Piazza.
+For help with course content or questions about course details and policies, please first search Piazza to see if your questions has already been asked and answered, and if not, post it on Piazza. **If the answer to your question might benefit other students or be something that could be answered by other students, then Piazza is the place to ask it.** 
 
 For issues that are specific to your personal situation:
 
-- If you have concerns related to grading, please discuss the issue directly (in person) with the grading TA as the first step. If they are not available during your lab period, please contact them via Canvas Inbox. If you feel that your issue remains unresolved after discussing it with the grading TA, please follow-up with your instructor as the next step.
+- If you have concerns related to grading, please discuss the issue directly (in person) with the grading TA as the first step. If they are not available during your lab period, please contact them via a private Piazza message. If you feel that your issue remains unresolved after discussing it with the grading TA, please follow-up with your instructor as the next step.
 - For scheduling or other issues specific to your own personal situation that can't be handled by in-term concessions (see below) please contact the course administrator at phys119@phas.ubc.ca.
 - If you have academic accommodations granted by the CfA that pertain to labs, please send your CfA letter to the course administrator at phys119@phas.ubc.ca. If you have specific concerns, please discuss them with your section's instructor.
 
@@ -45,11 +45,11 @@ All labs and office hours are held in [Hebb 312](https://www.maps.ubc.ca/?code=H
 
 We encourage you to make use of office hours to chat about anything that is related to your prelabs or labs or to discuss how the teaching team could better support your learning. We're happy to help!
 
-### Communication Policy (Canvas and Piazza)
+### Communication Policy (Piazza)
 
-In this course, you will be using Piazza, which is a tool to help facilitate discussions. To access Piazza, click on the link in the navigation bar on the left.
+In this course, we will use Piazza as our primary communicatoin platform. 
 
-Important course updates and/or changes will be made via Canvas Announcements. Make sure your Canvas Inbox and Announcements notifications are on. See the [Canvas Announcements Student Guide](https://community.canvaslms.com/t5/Student-Guide/tkb-p/student#Announcements) if needed.
+Important course updates will be made directly by Workday email. 
 
 ## Learning Activities and Material
 
@@ -59,11 +59,11 @@ In the labs, you will not only be engaging in experimentation and data analysis,
 
 ### Required Course Materials
 
-- There is no required textbook or lab manual to purchase. All course material will be available on Canvas.
+- There is no required textbook or lab manual to purchase. All course material will be available through our course Jupyter server, our course github pages and PrairieLearn.
 - You will need to bring a computing device with a keyboard to class (a laptop is best, but a tablet with a separate keyboard can also work). Your computer will need an internet connection (e.g. via UBCsecure) and a modern web browser (Chrome or Firefox preferred, Safari should work). There are a few loaner computers available if you occasionally need one (ask a TA or the instructor at the beginning of your lab session).
 - All of our data analysis and lab notes will be kept in a private web-based interactive computing platform (JupyterHub), run by the Physics and Astronomy department. Details on how to access this platform are detailed in Lab 00. All data analysis and lab notes will be done on this platform in so-called "Jupyter notebooks".
 - Jupyter notebook is a web-based interactive note-taking and computing application. You don't need to install any special software to use Jupyter notebooks in this course: all you need is an internet connection and a modern web browser.
-- We will use Python, Markdown and LaTeX to interact in the Jupyter Notebook. Notebooks will be exported to HTML format (.html) for uploading to Canvas. All of these tools are commonly used in academia and industry alike. Understanding how to use these tools will come in handy in one way or another, either later in your studies or during your professional life. The sooner you start using them, the easier it will be!
+- We will use Python, Markdown and LaTeX to interact in the Jupyter Notebook. Notebooks will be exported to HTML format (.html) for uploading to PrairieLearn. All of these tools are commonly used in academia and industry alike. Understanding how to use these tools will come in handy in one way or another, either later in your studies or during your professional life. The sooner you start using them, the easier it will be!
 
 Glossary:
 
