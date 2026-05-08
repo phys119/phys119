@@ -9,7 +9,7 @@ This will be your landing page for everything you’ll need to access! We apprec
 * Join Piazza
 
 ### Signing up for Jupyter
-* Go to <a href="[https://phys119.phas.ubc.ca/](https://phys119.phas.ubc.ca/)" target="_blank">Jupyter Hub</a>
+* Go to our<a href="https://phys119.phas.ubc.ca/" target="_blank" rel="noopener noreferrer">Physics 119 Jupyter Server</a>
 * Log in with the first four letters of your first name and first four digits of your student number as your username
 * Put in the password you would like to have for your account and save this somewhere as it will be your password for your Jupyter account
 
