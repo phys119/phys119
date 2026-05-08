@@ -4,9 +4,9 @@ This will be your landing page for everything you’ll need to access! We apprec
 
 ## To do before Monday/ Tuesday
 * Login into your account on our Physics 119 Jupyter server
-* Complete Lab 00
+* Complete Lab 00 and submit it to PrairieLearn
 * Review the Syllabus
-* Join Piazza
+* Join our course on Piazza
 
 ### Signing up for Jupyter
 * Go to our <a href="https://phys119.phas.ubc.ca/" target="_blank" rel="noopener noreferrer">Physics 119 Jupyter Server</a>
