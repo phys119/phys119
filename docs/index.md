@@ -9,7 +9,7 @@ This will be your landing page for everything you’ll need to access! We apprec
 * Join Piazza
 
 ### Signing up for Jupyter
-* Go to our<a href="https://phys119.phas.ubc.ca/" target="_blank" rel="noopener noreferrer">Physics 119 Jupyter Server</a>
+* Go to our <a href="https://phys119.phas.ubc.ca/" target="_blank" rel="noopener noreferrer">Physics 119 Jupyter Server</a>
 * Log in with the first four letters of your first name and first four digits of your student number as your username
 * Put in the password you would like to have for your account and save this somewhere as it will be your password for your Jupyter account
 
@@ -30,7 +30,7 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 # Modules
 
 ### Lab 00 (Monday May 11/Tuesday May 12)
-* [Lab 00 - notebook with instructions](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab00/Lab00.ipynb)
+* [Lab 00 - notebook](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab00/Lab00.ipynb)
 
 ### Lab 01 (Monday May 11/Tuesday May 12)
 * [Lab 01 - notebook with instructions](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab01/Lab01.ipynb)
