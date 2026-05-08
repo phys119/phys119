@@ -26,6 +26,10 @@ For help with course content or questions about course details and policies, ple
 ### Office Hours
 Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 
+### PrairieLearn
+<a href="[https://phys119.phas.ubc.ca/](https://us.prairielearn.com/pl/course_instance/215773)" target="_blank" rel="noopener noreferrer">Link to our course on PrairieLearn</a>
+* We are using PrairieLearn to deliver practice quizzes, as well as for course submissions during the Canvas outage. We will provide links to PrairieLearn submission assignments for each thing that needs to be submitted, and the link above can be used to visit the course on PrairieLearn.
+
 ---
 # Modules
 
