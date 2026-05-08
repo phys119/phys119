@@ -1,6 +1,5 @@
 # Homepage
-
-This will be your landing page for everything you’ll need to access! We appreciate your patience while we navigate this situation.
+This will be your landing page for everything you'll need to access! We appreciate your patience while we navigate this situation.
 
 ## To do before Monday/ Tuesday
 * Login into your account on our Physics 119 Jupyter server
@@ -14,29 +13,29 @@ This will be your landing page for everything you’ll need to access! We apprec
 * Put in the password you would like to have for your account and save this somewhere as it will be your password for your Jupyter account
 
 ### Complete Lab 00
-* See links below in the Modules section
+* <a href="#modules">See links below in the Modules section</a>
 
 ### Review the syllabus
-The [syllabus](https://phys119.github.io/phys119/syllabus.html) will give you information on the instructional team, course schedule, catch-up labs, Piazza, and should answer questions you have about the course 
+The <a href="https://phys119.github.io/phys119/syllabus.html" target="_blank" rel="noopener noreferrer">syllabus</a> will give you information on the instructional team, course schedule, catch-up labs, Piazza, and should answer questions you have about the course 
 
-### Join [our course on Piazza](https://piazza.com/ubc.ca/summer2026/phys_v119l01l022026ss)
+### Join <a href="https://piazza.com/ubc.ca/summer2026/phys_v119l01l022026ss" target="_blank" rel="noopener noreferrer">our course on Piazza</a>
 For help with course content or questions about course details and policies, please first search Piazza to see if your questions has already been asked and answered, and if not, post it on Piazza. If the answer to your question might benefit other students or be something that could be answered by other students, then Piazza is the place to ask it.
-
 For scheduling or other issues specific to your own personal situation please contact the course administrator at phys119@phas.ubc.ca.
 
 ### Office Hours
 Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 
 ---
+
 # Modules
 
 ### Lab 00 (Monday May 11/Tuesday May 12; complete before attending the lab)
-* [Lab 00 notebook](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab00/Lab00.ipynb)
-* [Lab 00 submission](https://us.prairielearn.com/pl/course_instance/215773/assessment/2682258) (PrairieLearn)
+* <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab00/Lab00.ipynb" target="_blank" rel="noopener noreferrer">Lab 00 notebook</a>
+* <a href="https://us.prairielearn.com/pl/course_instance/215773/assessment/2682258" target="_blank" rel="noopener noreferrer">Lab 00 submission</a> (PrairieLearn)
 
 ### Lab 01 (Monday May 11/Tuesday May 12)
-* [Lab 01 notebook with instructions](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab01/Lab01.ipynb)
-* [Lab 01 submission](https://us.prairielearn.com/pl/course_instance/215773/assessment/2682323) (PrairieLearn)
+* <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab01/Lab01.ipynb" target="_blank" rel="noopener noreferrer">Lab 01 notebook with instructions</a>
+* <a href="https://us.prairielearn.com/pl/course_instance/215773/assessment/2682323" target="_blank" rel="noopener noreferrer">Lab 01 submission</a> (PrairieLearn)
 * Lab 01 catch-up notebook with instructions (coming soon)
 
 ### Lab 02 (coming soon)
@@ -50,3 +49,5 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 * We are using PrairieLearn to deliver practice quizzes, as well as for course submissions during the Canvas outage. We will provide links to PrairieLearn submission assignments for each thing that needs to be submitted, and the link above can be used to visit the course on PrairieLearn.
 
 ### <a href="https://phys119.github.io/phys119/jupyter.html" target="_blank" rel="noopener noreferrer">Jupyter Troubleshooting page</a>
+
+One note on the Modules anchor: I used `href="#modules"` which relies on GitHub Pages' default heading-ID generation (lowercased heading text). If your generator does something different, you may need an explicit `<a id="modules"></a>` right before the `# Modules` line. The Modules anchor link does not use `target="_blank"` since it is an in-page jump and opening it in a new tab would be disorienting.
