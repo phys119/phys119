@@ -20,7 +20,7 @@ This will be your landing page for everything you’ll need to access! We apprec
 ### Review the syllabus
 The [syllabus](https://phys119.github.io/phys119/syllabus.html) will give you information on the instructional team, course schedule, catch-up labs, Piazza, and should answer questions you have about the course 
 
-### Join our course on [Piazza](https://piazza.com/ubc.ca/summer2026/phys_v119l01l022026ss)
+### Join [our course on Piazza](https://piazza.com/ubc.ca/summer2026/phys_v119l01l022026ss)
 For help with course content or questions about course details and policies, please first search Piazza to see if your questions has already been asked and answered, and if not, post it on Piazza. If the answer to your question might benefit other students or be something that could be answered by other students, then Piazza is the place to ask it.
 
 ### Office Hours
@@ -31,6 +31,7 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 
 ### Lab 00 (Monday May 11/Tuesday May 12)
 * [Lab 00 - notebook](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab00/Lab00.ipynb)
+* [Lab00 submission](https://us.prairielearn.com/pl/course_instance/215773/assessment/2682258) (PrairieLearn)
 
 ### Lab 01 (Monday May 11/Tuesday May 12)
 * [Lab 01 - notebook with instructions](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab01/Lab01.ipynb)
