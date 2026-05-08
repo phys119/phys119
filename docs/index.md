@@ -15,7 +15,7 @@ This will be your landing page for everything you’ll need to access! We apprec
 
 ### Complete Lab 00
 * Use this link to access [Lab 00](https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab00/Lab00.ipynb)
-  * Submit to the [Lab00 submission assignment](https://us.prairielearn.com/pl/course_instance/215773/assessment/2682258) for our course on PrairieLearn
+  * Submit to the [Lab00 submission assignment](https://us.prairielearn.com/pl/course_instance/215773/assessment/2682258) on PrairieLearn
 
 ### Review the syllabus
 The [syllabus](https://phys119.github.io/phys119/syllabus.html) will give you information on the instructional team, course schedule, catch-up labs, Piazza, and should answer questions you have about the course 
