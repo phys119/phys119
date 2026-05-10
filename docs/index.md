@@ -49,5 +49,3 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 * We are using PrairieLearn to deliver practice quizzes, as well as for course submissions during the Canvas outage. We will provide links to PrairieLearn submission assignments for each thing that needs to be submitted, and the link above can be used to visit the course on PrairieLearn.
 
 ### <a href="https://phys119.github.io/phys119/jupyter.html" target="_blank" rel="noopener noreferrer">Jupyter Troubleshooting page</a>
-
-One note on the Modules anchor: I used `href="#modules"` which relies on GitHub Pages' default heading-ID generation (lowercased heading text). If your generator does something different, you may need an explicit `<a id="modules"></a>` right before the `# Modules` line. The Modules anchor link does not use `target="_blank"` since it is an in-page jump and opening it in a new tab would be disorienting.
