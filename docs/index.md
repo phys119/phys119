@@ -39,8 +39,11 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 * <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab01/Lab01-catchup.ipynb" target="_blank" rel="noopener noreferrer">Lab 01 catch-up notebook with instructions</a> (complete on your own time if you miss the in-person lab, do not submit to PrairieLearn)
 
 ### Lab 02 (Wednesday May 13/Thursday May 14)
-* Lab 02 prelab notebook</a> 
-* Lab 02 prelab submission</a> (PrairieLearn, due at 1:00pm on the day of your lab)
+* <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab02/Prelab02.ipynb" target="_blank" rel="noopener noreferrer">Prelab 02 notebook</a>
+* Prelab 02 submission (PrairieLearn, due at 1:00pm on the day of your lab)
+
+
+
 
 ---
 
