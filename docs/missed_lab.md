@@ -1,8 +1,6 @@
 ## What to do when you miss or will miss a lab
 
----
-## 👉 [In-term academic concession request form](https://ubc.ca1.qualtrics.com/jfe/form/SV_cMkHXGQdtV0Gg4e)
----
+> 👉 **Need to submit a concession? [In-term academic concession request form](https://ubc.ca1.qualtrics.com/jfe/form/SV_cMkHXGQdtV0Gg4e)**
 
 ### Step 1: Complete the prelab
 
