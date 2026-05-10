@@ -44,8 +44,7 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 
 # Additional Resources
 
-### PrairieLearn
-<a href="https://us.prairielearn.com/pl/course_instance/215773" target="_blank" rel="noopener noreferrer">Link to our course on PrairieLearn</a>
+### PrairieLearn (<a href="https://us.prairielearn.com/pl/course_instance/215773" target="_blank" rel="noopener noreferrer">Link to our course on PrairieLearn</a>)
 * We are using PrairieLearn to deliver practice quizzes, as well as for course submissions during the Canvas outage. We will provide links to PrairieLearn submission assignments for each thing that needs to be submitted, and the link above can be used to visit the course on PrairieLearn.
 
 ### <a href="https://phys119.github.io/phys119/jupyter.html" target="_blank" rel="noopener noreferrer">Jupyter Troubleshooting page</a>
