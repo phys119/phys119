@@ -42,8 +42,6 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 * <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab02/Prelab02.ipynb" target="_blank" rel="noopener noreferrer">Prelab 02 notebook</a>
 * <a href="https://us.prairielearn.com/pl/course_instance/215773/assessment/2682884" target="_blank" rel="noopener noreferrer">Prelab 02 submission</a> (PrairieLearn, due at 1:00pm on the day of your lab)
 
-https://us.prairielearn.com/pl/course_instance/215773/assessment/2682884
-
 
 ---
 
