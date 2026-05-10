@@ -119,7 +119,7 @@ Note that this schedule is subject to change. The class will be informed with a 
 
 ### What to do when you miss a lab
 
-**Please see the "What to do when you miss or will miss a lab" page in the "Course Information and Logistics" module on Canvas.**
+**Please visit the <a href="https://phys119.github.io/phys119/missed_lab.html" target="_blank" rel="noopener noreferrer">What to do when you miss or will miss a lab</a> page for more details**
 
 Important! If you miss a lab and are not able to reschedule to a different section, it is expected that you will complete your prelab as usual and use our Catch-up Lab resources to complete ALL course activities that you missed. This includes data collection and analysis using our virtual lab equipment, as appropriate.
 
@@ -128,7 +128,7 @@ Important! If you miss a lab and are not able to reschedule to a different secti
 Success in this class depends upon your active engagement and attention both in the prelabs and during the labs themselves. Coming prepared to your lab by taking the time to carefully complete and understand your prelab is critical to ensure you finish your lab on time. The following deadlines apply to all labs and prelabs:
 
 - **Lab submissions** are due at the end of the lab period (2h50m after the start of the lab). We will provide a grace period of 10 minutes in case you have any technical issues related to submitting. Labs submitted after that (i.e. more than 3 hours after the start of your lab session) will have an automatic 10% penalty applied. Additionally, the lab submission assignment will no longer be available 4 hours after the start of your lab session.
-- **Prelab submission** assignments will be open until the final teaching day of the term but any prelabs submitted after the start of the associated lab will have a 10% penalty applied. Lateness policies related to make-up labs are discussed in the next section.
+- **Prelab submission** assignments will be open until the final teaching day of the term but any prelabs submitted after the start of the associated lab will have a 10% penalty applied. 
 
 **Late arrivals:** Since we work in teams, you are expected to arrive prepared and on time. If you are less than 15 minutes late we will ask you to join your partner or another group and to quickly catch up. If you are more than 15 minutes late, but less than an hour, you will be asked to complete the lab independently assuming sufficient equipment is available. If you arrive more than an hour late, we will treat it as a missed lab.
 
@@ -179,7 +179,7 @@ The information is treated confidentially and is sent because we care about your
 **If you are sick it is important that you stay home, no matter what you think you may be sick with (e.g., cold, flu, other).**
 
 - Do not come to class if you are unwell.
-- Your precautions will help reduce risk and keep everyone safer. We offer an at-your-own-pace make-up lab for each lab so that you are able to miss a lab without being penalized in any way (see above).
+- Your precautions will help reduce risk and keep everyone safer. We offer the opportunity to remain caught up in the course using Catch-up Labs.
 
 ### Instructor and teaching assistant health
 
