@@ -84,19 +84,19 @@ How do we calculate the standard uncertainty associated with the compressed mass
 
 ### Question 1
 
-**Answer: C. It depends on whether the reading from the digital output is stable or not**
+> **Answer: C. It depends on whether the reading from the digital output is stable or not**
 
 If the reading from the digital output is stable, the uncertainty associated with it will be represented by a Rectangular PDF since the instrumental uncertainty dominates. However, if the reading is unstable, the uncertainty is dominated by the random uncertainty, in which case the standard uncertainty should be represented by a Gaussian PDF.
 
 ### Question 2
 
-**Answer: A. Gaussian PDF**
+> **Answer: A. Gaussian PDF**
 
 As experimenters we need to make many small judgements in order to do this measurement (e.g., Where is the top of the spring? How does that line up on the ruler sitting a couple of cm away? How is is the ruler to read?). You can still determine a most likely answer, so the appropriate distribution is the peaked one, not a flat rectangular one. Therefore, the standard uncertainty of the measurement should be estimated using a Gaussian PDF.
 
 ### Question 3
 
-**Answer: A. δx<sub>2</sub> = 0.050 cm**
+> **Answer: A. δx<sub>2</sub> = 0.050 cm**
 
 We know that the standard uncertainty associated with the length of spring measurement should be estimated using a Gaussian distribution (from Question 2). Hence, we can calculate the standard uncertainty from the relationship that standard uncertainty of a Gaussian is one quarter of the 95% CI:
 
@@ -110,7 +110,7 @@ Note that we express this as 0.050 cm and not 0.05 cm because of the convention 
 
 ### Question 4
 
-**Answer: C. 0.29 g**
+> **Answer: C. 0.29 g**
 
 We observed that the spring in its uncompressed state gave a stable digital reading (i.e. the value displayed was not fluctuating). Hence, the only uncertainty associated with the measurement is the instrumental uncertainty. We represented that measurement as a rectangular PDF that was 1 gram wide (so the half-width is a = 0.5 grams). The standard uncertainty is the standard deviation of this rectangular distribution, a/sqrt(3) = 0.5 g/sqrt(3) = 0.29 g.
 
@@ -118,7 +118,7 @@ Note that we keep 2 significant figures when we report a standard uncertainty.
 
 ### Question 5
 
-**Answer: C. Calculate the standard deviation of the Gaussian PDF using (95% CI)/4**
+> **Answer: C. Calculate the standard deviation of the Gaussian PDF using (95% CI)/4**
 
 Back in the first question we concluded that the type of PDF that we should use to determine the standard uncertainty of a measurement from a digital output depends on whether the reading from the digital output is stable or not. We observed that values displayed on the mass balance when we were compressing the spring were not steady, and hence we could represent the standard uncertainty of that measurement using a Gaussian PDF. We decided it would be reasonable to estimate a 95% CI for that measurement by observing the maximum (m_max) and minimum (m_min) values displayed when we tried to hold the force constant. If we treat the 95% CI as "Max−Min", the standard uncertainty would be:
 
