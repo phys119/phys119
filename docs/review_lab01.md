@@ -47,12 +47,12 @@ Which probability density function (PDF) should you use to determine the standar
 
 ### Question 3
 
-Consider a measurement of spring position x2 at 5 cm. If you decide that the 95% confidence interval spans a range from 4.9 to 5.1 cm, what should you report as your standard uncertainty in the measurement u[x2]?
+Consider a measurement of spring position x2 at 5 cm. If you decide that the 95% confidence interval spans a range from 4.9 to 5.1 cm, what should you report as your standard uncertainty in the measurement δx<sub>2</sub>?
 
 <ol type="A">
-<li>u[x2] is 0.050 cm</li>
-<li>u[x2] is 0.10 cm</li>
-<li>u[x2] is 0.20 cm</li>
+<li>δx<sub>2</sub> = 0.050 cm</li>
+<li>δx<sub>2</sub> = 0.10 cm</li>
+<li>δx<sub>2</sub> = 0.20 cm</li>
 </ol>
 
 ### Question 4
@@ -94,15 +94,15 @@ As experimenters we need to make many small judgements in order to do this measu
 
 ### Question 3
 
-**Answer: A. δx<sub>2</sub> is 0.050 cm**
+**Answer: A. δx<sub>2</sub> = 0.050 cm**
 
 We know that the standard uncertainty associated with the length of spring measurement should be estimated using a Gaussian distribution (from Question 2). Hence, we can calculate the standard uncertainty from the relationship that standard uncertainty of a Gaussian is one quarter of the 95% CI:
 
-*u[x2] = (95% CI)/4*
+δx<sub>2</sub> = (95% CI)/4
 
-*u[x2] = (5.1 cm − 4.9 cm)/4*
+δx<sub>2</sub> = (5.1 cm − 4.9 cm)/4
 
-*u[x2] = 0.050 cm*
+δx<sub>2</sub> = 0.050 cm
 
 Note that we express this as 0.050 cm and not 0.05 cm because of the convention that we report standard uncertainties to 2 significant figures.
 
@@ -120,4 +120,4 @@ Note that we keep 2 significant figures when we report a standard uncertainty.
 
 Back in the first question we concluded that the type of PDF that we should use to determine the standard uncertainty of a measurement from a digital output depends on whether the reading from the digital output is stable or not. We observed that values displayed on the mass balance when we were compressing the spring were not steady, and hence we could represent the standard uncertainty of that measurement using a Gaussian PDF. We decided it would be reasonable to estimate a 95% CI for that measurement by observing the maximum (m_max) and minimum (m_min) values displayed when we tried to hold the force constant. If we treat the 95% CI as "Max−Min", the standard uncertainty would be:
 
-*u[m2] = (m_max − m_min)/4*
+δm<sub>2</sub> = (m_max − m_min)/4.
