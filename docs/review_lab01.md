@@ -25,6 +25,8 @@ $$\sigma_{rectangular} = \frac{a \text{ (half-width)}}{\sqrt{3}}$$
 
 ## Questions
 
+*The answer to each question can be found at the end of this document.*
+
 ### Question 1
 
 Which probability density function (PDF) should you use to determine the standard uncertainty of a single measurement from a digital output?
