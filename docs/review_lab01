@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Let's review what we learned about characterizing uncertainties in Lab 01. During Lab 01 (the full set of slides, with answers, has been posted in the Lab 01 folder), we discussed how to estimate our confidence in a measurement and turn that into a standard uncertainty, which we represented as u[..]. We discussed three different situations so far.
+Let's review what we learned about characterizing uncertainties in Lab 01. During Lab 01 (the full set of slides, with answers, has been posted), we discussed how to estimate our confidence in a measurement and turn that into a standard uncertainty, which we represented as δ(..). We discussed three different situations so far.
 
 1. The measurement uses a digital instrument where the main limitation is the precision (rounding) of the number displayed,
 2. The measurement is fluctuating due to some source of noise, and
@@ -15,11 +15,11 @@ In Lab 01, we also introduced the idea of Rectangular and Gaussian PDFs (Probabi
 3. Uncompressed mass of spring (m1), and
 4. Compressed mass of spring (m2).
 
-Remember that the standard uncertainty "u[...]" for a single measurement is the standard deviation "σ" in our distribution. The standard deviation of each PDF can be estimated using the formula below.
+Remember that the standard uncertainty "δ(..)" for a single measurement is the standard deviation "σ" in our distribution. The standard deviation of each PDF can be estimated using the formulae below.
 
-![Standard deviation formulas for Rectangular and Gaussian PDFs](https://ubc.ca1.qualtrics.com/CP/Graphic.php?IM=IM_7PW80oPoeu7L3lr)
+$$\sigma_{gaussian} = \frac{95\% \text{ Confidence Interval (CI)}}{4}$$
 
-*For reference: Rectangular PDF σ = a/√3 where a is the half-width. Gaussian PDF σ = (95% CI)/4.*
+$$\sigma_{rectangular} = \frac{a \text{ (half-width)}}{\sqrt{3}}$$
 
 ---
 
