@@ -44,7 +44,7 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 * <a href="https://phys119.github.io/phys119/review_lab01.html" target="_blank" rel="noopener noreferrer">Self-test review of Lab 01 uncertainty concepts</a>
 * <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab02/Prelab02.ipynb" target="_blank" rel="noopener noreferrer">Prelab 02 notebook</a>
 * <a href="https://us.prairielearn.com/pl/course_instance/215773/assessment/2682884" target="_blank" rel="noopener noreferrer">Prelab 02 submission</a> (PrairieLearn, due at 1:00pm on the day of your lab)
-
+* <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab02/Lab02.ipynb" target="_blank" rel="noopener noreferrer">Lab 02 notebook with instructions</a>
 
 ---
 
