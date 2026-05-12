@@ -5,9 +5,7 @@ on Piazza!
 
 The vast majority of problems with things inside the notebook not executing properly can be resolved by either simply reloading the browser tab or by closing the browser tab that you are using, and logging in to https://phys119.phas.ubc.ca/ again.
 
-## 1) Problem:  
-
-I can see my Jupyter notebook, but whenever I try to execute python code cells, they don’t work.
+## 1) Problem: I can see my Jupyter notebook, but whenever I try to execute python code cells, they don’t work.
 
 Suggestions: The first thing to check is to see if the python kernel has died or timed out.
 In the upper right of the window, there should be an open circle. When you hover the mouse over the circle it should say ‘Kernel status: Idle’
@@ -57,9 +55,7 @@ Suggestions: Try logging in from a private browsing window. If it works, you can
 
 ## 5) Problem: I deleted a cell with some instructions from a notebook template
 
-Suggestions: The way this is supposed to work is that you should be able to delete your local copy of the notebook, and then click on the link again to download a fresh copy. Unfortunately it seems that your changes to the template get “committed’ in your account and are re-applied to the new copy.
-
-If this happens for you, post on piazza and we’ll find a way of getting the missing material to you.
+Suggestions: To get a fresh copy of the notebook you are working on, you can rename the notebook you are working on (e.g., from Prelab02.ipynb to Prelab02_old.ipynb) and then click on the notebook link again (from the homepage of Canvas) and you will get a brand new copy of the file. You can restart your work in this new copy of the notebook or copy any content from it into your old notebook.
 
 ## 6) Problem: When I click on a cell to edit it or execute it, the content disappears!
 
