@@ -81,7 +81,7 @@ Note that this schedule is subject to change. The class will be informed with a 
 | Lab | Dates | Pre-lab (due at the start of your weekly lab session) |
 | --- | --- | --- |
 | Lab 00 - Introduction to Jupyter Notebooks | May 04 - 08 | This assignment introduces you to Jupyter notebooks and basic Python coding. It is to be completed on your own at home. We will have extra in-person office hours to assist you with this lab. There is no additional prelab for Lab 00. |
-| Lab 01 - Hooke's Law | May 11/12 | Prelab 01 - Syllabus Quiz |
+| Lab 01 - Hooke's Law | May 11/12 | ~~Prelab 01 - Syllabus Quiz~~ (cancelled due to Canvas situation) |
 | Lab 02 - Hooke's Law II | May 13/14 | Prelab 02 - Data entry in Jupyter notebooks/Uncertainty propagation |
 | Victoria Day | May 18/19 | No labs |
 | Lab 03 - The Pendulum I | May 20/21 | Prelab 03 - Statistics of repeated measurements (mean, standard deviation, etc) and preliminary pendulum data. |
