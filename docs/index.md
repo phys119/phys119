@@ -37,7 +37,7 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 * There is no prelab for Lab 01
 * <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab01/Lab01.ipynb" target="_blank" rel="noopener noreferrer">Lab 01 notebook with instructions</a>
 * <a href="https://docs.google.com/presentation/d/e/2PACX-1vSsaF4ZNMeZwb1vgdKxojURaXUOQSmcHB_JWmi8f6WtaaB-5Hq8RVwDLnKuHU4h5NUrW4wSOTcLhIJl/pub" target="_blank" rel="noopener noreferrer">Lab 01 slides (no answers)</a>
-* <a href="* <a href="https://docs.google.com/presentation/d/e/2PACX-1vSsaF4ZNMeZwb1vgdKxojURaXUOQSmcHB_JWmi8f6WtaaB-5Hq8RVwDLnKuHU4h5NUrW4wSOTcLhIJl/pub" target="_blank" rel="noopener noreferrer">Lab 01 slides (no answers)</a>" target="_blank" rel="noopener noreferrer">Lab 01 slides (with answers)</a>
+* <a href="https://docs.google.com/presentation/d/e/2PACX-1vSsaF4ZNMeZwb1vgdKxojURaXUOQSmcHB_JWmi8f6WtaaB-5Hq8RVwDLnKuHU4h5NUrW4wSOTcLhIJl/pub" target="_blank" rel="noopener noreferrer">Lab 01 slides (no answers)</a>" target="_blank" rel="noopener noreferrer">Lab 01 slides (with answers)</a>
 * <a href="https://us.prairielearn.com/pl/course_instance/215773/assessment/2682323" target="_blank" rel="noopener noreferrer">Lab 01 submission</a> (PrairieLearn, due at 3:50pm)
 * <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab01/Lab01-catchup.ipynb" target="_blank" rel="noopener noreferrer">Lab 01 catch-up notebook with instructions</a> (complete on your own time if you miss the in-person lab, do not submit to PrairieLearn)
 
