@@ -47,6 +47,7 @@ Office hours will be held on Mondays in HEBB 312 from 10:30am-12pm
 * <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ_zsYiEpGbFun8o_uTvDWDgWjwTsj_uLnYnq8e6WWCJBKK2D6uXU7PNXDS8SWu4IcxiT6Digep7Hhi/pub" target="_blank" rel="noopener noreferrer">Lab 02 slides (no answers)</a>
 * <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab02/Lab02.ipynb" target="_blank" rel="noopener noreferrer">Lab 02 notebook with instructions</a>
 * <a href="https://us.prairielearn.com/pl/course_instance/215773/assessment/2683761" target="_blank" rel="noopener noreferrer">Lab 02 submission</a> (PrairieLearn, due at 3:50pm)
+* <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab02/Lab02-catchup.ipynb" target="_blank" rel="noopener noreferrer">Lab 02 catch-up notebook with instructions</a> (complete on your own time if you miss the in-person lab, do not submit to PrairieLearn)
 
 ### Lab 03 (Wednesday May 20/Thursday May 21)
 * <a href="https://phys119.phas.ubc.ca/hub/user-redirect/git-pull?repo=https://github.com/phys119/phys119&branch=main&urlpath=lab/tree/phys119/Lab03/Prelab03.ipynb" target="_blank" rel="noopener noreferrer">Prelab 03 notebook</a>
